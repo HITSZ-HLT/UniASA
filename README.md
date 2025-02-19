@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 1. Process these 4 datasets according to the instructions from [graph_parser](https://github.com/hitachi-nlp/graph_parser/tree/main/examples/multitask_am), and store the processed datasets in `input/orig_datasets` as `cdcp-from_tacl22`, `abstrct-from_tacl22`, `aasd-from_tacl22`, and `mtc-from_tacl22` respectively.
 
-2. Clone this [repo](https://github.com/peldszus/arg-microtexts.git) into `input/orig_datasets` for the topic informatioin os the MTC dataset.
+2. Clone this [repo](https://github.com/peldszus/arg-microtexts.git) into `input/orig_datasets` for the topic informatioin of the MTC dataset.
 
 ### RR
 

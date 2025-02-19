@@ -34,11 +34,11 @@ pip install -r requirements.txt
 
 ### RR
 
-1. Download fils in [RR-submission-v2](https://github.com/LiyingCheng95/ArgumentPairExtraction/tree/master/data/RR-submission-v2) and save them to `input/orig_datasets/RR-submission-v2`.
+1. Download files in [RR-submission-v2](https://github.com/LiyingCheng95/ArgumentPairExtraction/tree/master/data/RR-submission-v2) and save them to `input/orig_datasets/RR-submission-v2`.
 
 ### QAM
 
-1. Download fils in [QAM](https://github.com/guojiapub/QuadTAG/tree/main/data/QAM) and save them to `input/orig_datasets/QAM`.
+1. Download files in [QAM](https://github.com/guojiapub/QuadTAG/tree/main/data/QAM) and save them to `input/orig_datasets/QAM`.
 
 ## Running Scripts
 
